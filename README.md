@@ -1,7 +1,7 @@
-Praktikum Modul Redux - Pemograman Framework
-NAMA : Khosy Akmal Romadlan
-KELAS : TI - 3A
-NIM : 1741720021
+## Praktikum Modul Redux - Pemograman Framework
+### NAMA : Khosy Akmal Romadlan
+### KELAS : TI - 3A
+### NIM : 1741720021
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
